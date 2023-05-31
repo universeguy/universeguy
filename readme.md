@@ -94,7 +94,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/universeguy/universeguy/output/snake.svg" alt="Snake animation" />
-
-###
