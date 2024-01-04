@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Universe Guy from Finland<br><br>- 🔭 I’m working as a Blockchain Full stack developer<br>- 📚 I'm currently learning deep learning and Data science<br>- ⚡ In my free time I like to play volley ball</p>
+<p align="left">I'm Alosha from Denmark<br><br>- 🔭 I’m working as a NLP Engineer<br>- 📚 ⚡ In my free time I like to play volley ball</p>
 
 ###
 
