@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Alosha Suzuki from Denmark<br><br>- 🔭 I’m working as a NLP Engineer<br>- 📚 ⚡ In my free time I like to play volley ball</p>
+<p align="left">I'm Alosha Suzuki from Denmark<br><br>- 🔭 I’m working as a AI Full Stack Engineer<br>- 📚 ⚡ In my free time I like to play volley ball</p>
 
 ###
 
