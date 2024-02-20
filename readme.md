@@ -6,20 +6,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=universeguy.universeguy&"  />
 </div>
 
-###
-
-<h1 align="center">Hello! Everyone 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Alosha Suzuki from Denmark<br><br>- 🔭 I’m working as a AI Full Stack Engineer<br>- 📚 ⚡ In my free time I like to play volley ball</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
